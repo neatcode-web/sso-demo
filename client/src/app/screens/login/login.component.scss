@@ -1,0 +1,25 @@
+._login_container{
+    padding: 0;
+    height: 100%;
+    .row{
+        margin: 0;
+        height: 100%;
+    }
+    .col-md-6{
+        margin: 0;
+        padding: 0;
+    }
+    ._logo_panel{
+        background-color: #063970;
+    }
+    ._login_form_container{
+        display: flex;
+    }
+    ._login_form{
+        width: 50%;
+        margin: auto;
+    }
+    ._register_btn_wrapper{
+        margin-top: 50px;
+    }
+}
